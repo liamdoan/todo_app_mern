@@ -2,7 +2,9 @@ A fullstack to-do app with CRUD functions, and auto-generating different colors 
 
 - Frontend: React.
 
-- Backend: ExpressJS, NodeJS, MongoDB.
+- Backend: ExpressJS, NodeJS.
+
+- Database: MongoDB.
 
 - Testing: Jest for unit testing, Cypress for end-to-end (E2E) testing.
 
